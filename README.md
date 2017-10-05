@@ -22,7 +22,7 @@ Navigate to the directory *src* and run python Processor.py
 
 ## Models Selection
 
-There is a possibility to select N out of 8 models in [property.txt](property.txt). <br />
+There is a possibility to select N out of 8 models in [property.txt](src/property.txt). <br />
 Each sentence of an input document is predicted as majority vote of the N selected models. <br />
 Models with a "1" in usage field indicate as being selected and a "0" as non-selected. <br />
 The property file contains following models:
