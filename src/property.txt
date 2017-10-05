@@ -1,0 +1,9 @@
+model,usage
+LDA,1
+SVM,1
+LR,1
+RF,1
+ADA,1
+KNN,1
+GNB,1
+LSTM,0

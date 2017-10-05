@@ -1,0 +1,2 @@
+Sentence,LDA,SVM,LR,RF,ADA,KNN,GNB,LSTM,MajorityVote
+School uniforms may deter crime and increase student safety.,Non-Argument,Non-Argument,Non-Argument,Non-Argument,Argument,Argument,Argument,Argument,Undecided
