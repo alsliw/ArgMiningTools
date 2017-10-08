@@ -35,11 +35,12 @@ The property file contains following models:
 - Gaussian Naive Bayes (GNB)
 - Long short-term memory (LSTM)
 
+We use the [scikit-learn](http://scikit-learn.org) library for implementation of traditional Machine Learning classifiers. <br />
 In terms of LSTM we adapted the Neural Architectures for Named Entity Recognition described in Lample et al, 2016.
 
 ## Word Embeddings
 
-We use a pre-trained word embeddings from Google News corpus in order to use this for LSTM application. <br />
+We use pre-trained word embeddings from Google News corpus in order to use this for LSTM application. <br />
 - Word2Vec: https://code.google.com/p/word2vec/	
 
 Insert the binary file in *src* package
